@@ -168,4 +168,9 @@ In conclusion, this project demonstrates how data analysis and machine learning 
 
 By analyzing customer support interactions and building predictive models, organizations can make data-driven decisions to improve customer experience.
 
+
+Author 
+Awala Aishwarya
+Bhoj Reddy Engineering College
+
 Thank you.
